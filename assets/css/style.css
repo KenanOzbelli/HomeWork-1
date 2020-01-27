@@ -24,7 +24,7 @@ body {
     color: #d9dcd6;
 }
 
-div {
+.header div {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -34,6 +34,7 @@ div {
 
 div ul li {
     display: inline-block;
+    list-style-type:none;
     margin-left: 25px;
 }
 
